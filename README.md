@@ -5,3 +5,10 @@
 
 ## Info
 * This repository is a fix or an update attempt to resolve the Forever Stranded modpack errors
+
+## In progress of correction:
+
+* quest bugs
+* bugs of some mods
+* Optimizing modpack for more fps on weak pc
+* And checking mods that corrupt the map
